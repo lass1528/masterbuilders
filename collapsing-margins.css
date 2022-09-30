@@ -1,0 +1,23 @@
+.margen-10, {
+border: 1px solid black;
+}
+.margen-10 {
+     margin:  10;
+}
+
+
+.margen-20 
+  margin: 20px;
+  
+body {
+   width: 1960px;
+}
+
+h1, h2, #pie {
+  text-align: center;
+}
+
+#menu, #contenido, #info {
+loat: center;
+padding: 610;
+margin: 865;

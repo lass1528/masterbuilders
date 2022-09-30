@@ -1,0 +1,115 @@
+body {
+   font-family: 'Oswald', sans-serif;
+   width: 100%;
+   height: 100%;
+   background-color: #f18973;
+}
+
+
+a {
+	color: orange;
+}
+
+p  {
+
+     background-color:
+     rgba(79, 129, 189,0.75);
+}
+
+.margen-10, {
+border: 1px solid black;
+}
+.margen-10 {
+     margin:  10;
+}
+  
+h1, #pie {
+  text-align: center;
+}
+
+#menu, #contenido, #info {
+loat: center;
+padding: 610;
+margin: 865;
+}
+
+p {
+   background-color: black;
+   box-sizing: transparent;
+   border: inherit;
+   border-bottom-width: 60Px
+   class: margen-20px;
+}
+
+h1 {
+	color:  #92a8d1;
+}
+
+span {
+	color: #92a8d1;
+}
+
+span#mySpan {
+	color: #00B;
+}
+
+span a { text-decoration: none;
+}
+
+span.bold {
+	font-weight: bold;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.red {
+	color: #d5f4e6;
+}
+
+
+.box {
+	background-color: #d5f4e6;
+	color: #0B0;
+}
+
+input:focus{
+	/* outline: none; */
+	without outline
+}
+
+:focus  {
+     border: 2px solid #385D8A;
+}
+
+a:hover {
+	text-decoration: none;
+	color: #385D8A;
+}
+
+
+
+#contentBox   {
+         width:   200 px;
+		 height:   60 px;
+         border:    5px solid  #000080;
+         box-sizing:    content-box;
+         padding:  15px;
+		 border-bottom-width: 60Px;
+		 color:  #f18973;
+}
+
+#borderBox     {
+       width:      200px;
+	   height:      60px;
+       border:       5px solid   #000080;
+       box-sizing:        border-box;
+	   border-bottom-width: 60Px;
+       padding:   10px;
+	   color:    #f18973;
+}
+
+#boxshadow  {
+	width: 25Px
+}

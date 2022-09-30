@@ -1,0 +1,39 @@
+body {
+	Color: #000000;
+}
+
+a, a:link, a:visited, a:active, a:hover {
+	Color:#5c5c5c;
+}
+
+a:hover, link:hover, visited:hover,
+a:focus, link:focus, visited:focus {
+  background-color:#f1f1f1;
+}
+
+a:focus, link:focus, visited:focus {
+  box-shadow: 0 0 0 2px rgba(0, 0, 0, 0.25);
+  outline: 0;
+}
+
+header  {
+	background-color: #f1f1f1;
+}
+
+nav {
+	background-color: #f1f1f1;
+}
+
+section {
+	background-color: #bbbbbb;
+}
+
+footer {
+	background-color: #5c5c5c;
+}
+
+
+
+
+
+	

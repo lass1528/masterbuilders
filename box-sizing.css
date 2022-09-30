@@ -1,0 +1,16 @@
+#contentBox   {
+         width:   200 px;
+         border:    5px solid  #000080;
+         box-sizing:    content-box;
+         padding:  15px;
+		 color: #000000;
+}
+
+#borderBox     {
+       width:      200px;
+       border:       5px solid   #000080;
+       box-sizing:        border-box;
+       padding:   15px;
+	   color: #000000;
+}
+

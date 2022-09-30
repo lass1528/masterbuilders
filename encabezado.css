@@ -1,0 +1,88 @@
+body  {
+   font-family: Arial; text-decoration: color: #F5F5DC;
+   line-height: 1.4;
+   color: #000000;
+}
+
+h2 {
+  background-color: #5c5c5c;
+}
+
+div {
+  background-color: #5c5c5c;
+}
+
+
+header {
+  background: #f1f1f1;
+  padding: 1.5em;
+}
+
+h1  {
+   display: inline;
+}
+
+a, p, h2 {
+   font-size: 24px;
+   font-weight: bold;
+   color: rgba (0, 0, 0.6)
+   text-decoration: none;
+   padding: 0.1em 0.2em;
+   border-radius: 2px;
+   background-color: rgba(255, 255, 255, 0);
+   transition: background-color is linear;
+}
+
+form  {
+   display: inline;
+   margin-left: auto;
+   padding-left: 1em;
+   width: 100%
+}
+
+label {
+  font-size: 18px;
+}
+
+input {
+   padding: 0.6em  0.8em;
+}
+	
+
+button {
+    padding: 0.8em 0.9em;
+	cursor: pointer;
+}
+
+input, button {
+	font-size: 10px;
+	color: #000;
+	border-radius: 2px;
+	background-color: rgba(255, 255, 255, 0.3);
+	transition: background-color is linear;
+}
+
+a:hover, input:hover, button:hover,
+a:focus, input:focus, button:focus {
+  background-color:#fff;
+}
+
+a:focus, input:focus, button:focus {
+  box-shadow: 0 0 0 2px rgba(0, 0, 0, 0.25);
+  outline: 0;
+}
+
+input, button {
+   border: 0;
+}
+
+a[href="#"] {color:crimson;}
+a[title="Grupo de facebook"] {color: crimson;}
+
+
+
+.lienzo{
+width: 33%;
+height: 5%;
+}
+
