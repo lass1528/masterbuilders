@@ -1,0 +1,13 @@
+import { Platform } from '@ionic/angular';
+
+export class PhotoService {
+  public photos: UserPhoto[] = [];
+  private PHOTO_STORAGE: string = 'photos';
+  private platform: Platform;
+
+  constructor(platform: Platform) {
+    this.platform = platform;
+  }
+
+  // other code
+}
